@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+    background: #F9F5ED;
+    font-family: sans-serif;
+}
+
+/* navbar */
+
+nav{
+    padding: 20px 10%;
+    height: 15vh;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+}
+
+nav ul li {
+    list-style: none;
+    font-weight: 700;
+    margin-right: 5%;
+}
+
+/* hero section  */
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+}
+.leftmain{
+    width: 40%;
+}
+.leftmain h1 {
+    font-size: 67px;
+}
+
+.leftmain p{
+    margin: 5% 0;
+}
+.leftmain button{
+    background-color: #3B855B;
+    padding: 15px 20px;
+    border-radius: 10px;
+    border: none;
+    color: #fff;
+    font-weight: 500;
+}
+.rightmain{
+    width: 60%;
+    margin-left: 10%;
+}
+
+.rightmain div :nth-child(1) {
+    margin:5px;
+}
+.rightmain div :nth-child(2) {
+    margin:5px;
+}
