@@ -7,3 +7,4 @@ I've been Working on this assigments that has been given by our mentor [Hitesh C
 
   💻 I’m currently learning  ...<strong>Full Stack Javascript Web Developer By [Hitesh Choudhary](https://github.com/hiteshchoudhary).🔥✨🚀</strong>
   
+![Readme](output.png)
